@@ -48,4 +48,4 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 4. Envía tus cambios a la rama (```git push origin feature/nueva-caracteristica```).
 5. Abre una Pull Request.
 ### Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE]([URL](https://github.com/nesvas99/heritage-harbor/blob/main/LICENSE.md)).
+Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](https://github.com/nesvas99/heritage-harbor/blob/main/LICENSE.md).
